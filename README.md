@@ -58,7 +58,7 @@ This website is designed to be user-friendly and easy to navigate. Visit the dif
 Here are some screenshots of the portfolio website:
 
 ### Home Page
-![Home Page](assets/img/portfolio.png)
+![Home Page](assets/img/show.png)
 
 ## Contact
 
